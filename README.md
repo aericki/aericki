@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Olá! Eu sou Aericki Ferreira</h1>
-  <h3>Desenvolvedor Full-Stack | Fundador da A.K.A Tech & Soluções</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aericki%20Ferreira&fontSize=80&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20Founder%20A.K.A%20Tech&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Criador+do+Bestbreakers;Founder+da+A.K.A+Solu%C3%A7%C3%B5es;Go+%7C+React+%7C+Node.js;Bboy+e+Engenheiro+Civil" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -11,30 +15,18 @@
 - 🔭 Criador do sistema **Bestbreakers** e **Breaking Locations**.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e cursando Engenharia Civil.
 - 🩰 Bboy e conselheiro fiscal da Federação de Breaking de SP.
-- ⚙️ Foco: **Go (Golang), React, TypeScript e Node.js**.
 
 <br/>
 
-### 🛠️ Tecnologias que domino
+### 🛠️ Stack Tecnológica
 <div align="center">
-  <img align="center" alt="Aericki-Go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right: 10px;" />
-  <img align="center" alt="Aericki-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="Aericki-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="Aericki-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="Aericki-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="Aericki-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="Aericki-Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right: 10px;" />
-</div>
-
-<br/>
-
-### 🏆 Minhas Conquistas & Frequência
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aericki&theme=dracula&hide_border=true" alt="Aericki Streak" />
-  
-  <br/><br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=aericki&theme=dracula&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Aericki Trophies" />
+  <img align="center" alt="Aericki-Go" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding: 10px;" />
+  <img align="center" alt="Aericki-Ts" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding: 10px;" />
+  <img align="center" alt="Aericki-Js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding: 10px;" />
+  <img align="center" alt="Aericki-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding: 10px;" />
+  <img align="center" alt="Aericki-Node" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding: 10px;" />
+  <img align="center" alt="Aericki-Postgres" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding: 10px;" />
+  <img align="center" alt="Aericki-Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding: 10px;" />
 </div>
 
 <br/>
