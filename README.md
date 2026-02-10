@@ -28,12 +28,13 @@
 
 <br/>
 
-### 📊 Minhas Estatísticas
+### 🏆 Minhas Conquistas & Frequência
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aericki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aericki&layout=compact&theme=dracula"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aericki&theme=dracula&hide_border=true" alt="Aericki Streak" />
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=aericki&theme=dracula&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Aericki Trophies" />
 </div>
 
 <br/>
